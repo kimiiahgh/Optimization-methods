@@ -1,2 +1,2 @@
 # Optimization-methods
-Implementing multiple optimization algorithms on an Elastic Regression model to compare their impact.
+Implementing multiple optimization algorithms on a Linear Regression model to compare their impact.
